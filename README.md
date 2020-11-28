@@ -15,9 +15,6 @@ Fall 2020, W261 - Machine Learning at Scale - [James York-Winegar](https://www.i
 
 ---
 
-<center>
-<img src="/images/bertvision.png" height=550 align="center"></center>
-
 ## Description
 
 Flight delays create problems in scheduling for airlines and airports, leading to passenger inconvenience, and huge economic losses. As a result there is growing interest in predicting flight delays beforehand in order to optimize operations and improve customer satisfaction. In this project, we predict flight delays using the W261 datasets provided. All tasks for this problem to be tackled in Microsoft Azure Databricks.
