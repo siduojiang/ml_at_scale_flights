@@ -1,12 +1,14 @@
 BERT Vision
 ==========================================================
 
+![GitHub](https://img.shields.io/github/license/cbenge509/flightsontime)
+
+
 ![GitHub](https://img.shields.io/github/license/cbenge509/BERTVision) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/cbenge509/BERTVision) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/BERTVision/tensorflow) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/BERTVision/transformers) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/BERTVision/altair) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/BERTVision/h5py)
 
 <img align="right" width="180" src="./images/ucb.png"/>
 
 #### Authors : [Ning (Louis) Li](https://www.linkedin.com/in/louisli/) | [Andrew Fogarty](https://www.linkedin.com/in/afogarty85/) | [Siduo (Stone) Jiang](https://www.linkedin.com/in/siduojiang/) | [Cristopher Benge](https://cbenge509.github.io/)
-<br>
 
 [![](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/images/0)](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/links/0)[![](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/images/1)](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/links/1)[![](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/images/2)](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/links/2)[![](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/images/3)](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/links/3)[![](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/images/4)](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/links/4)[![](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/images/5)](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/links/5)[![](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/images/6)](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/links/6)[![](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/images/7)](https://sourcerer.io/fame/cbenge509/cbenge509/flightsontime/links/7)
 
