@@ -3,7 +3,7 @@ Flight Delay & Ontime Prediction
 
 ![GitHub](https://img.shields.io/github/license/cbenge509/flightsontime) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/cbenge509/flightsontime) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/flightsontime/xgboost) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/flightsontime/plotly) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/flightsontime/seaborn) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/flightsontime/tensorflow)
 
-<img align="right" width="180" src="./images/ucb.png"/>
+<img align="right" width="180" src="./images/ucb.png"/> 
 
 #### Authors : [Ning (Louis) Li](https://www.linkedin.com/in/louisli/) | [Andrew Fogarty](https://www.linkedin.com/in/afogarty85/) | [Siduo (Stone) Jiang](https://www.linkedin.com/in/siduojiang/) | [Cristopher Benge](https://cbenge509.github.io/)
 
