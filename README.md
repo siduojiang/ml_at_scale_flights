@@ -33,7 +33,7 @@ This repository contains the code, models, and documentation for prediction of f
 Data Pipeline
 -------------
 
-TODO: Some details and images regarding our data pipeline.
+TODO: Some details and images regarding our data pipeline. Details on SQL queries.
 
 ---
 
