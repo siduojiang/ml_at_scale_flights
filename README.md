@@ -27,9 +27,12 @@ This repository contains the code, models, and documentation to predict flight d
   |:----|:------------|
   | [Final Presentation](/presentation/Delayed%20Flights%20Prediction%20-%20Final.pptx) | Our final presentation and overview of solution. |
   | [EDA: Flights Data](/notebooks/EDA%20-%20Flights.ipynb) | Exploratory data analysis for `FLIGHTS` dataset. |
-  | [EDA: Weather & Stations Data](notebooks/EDA%20-%20Weather.ipynb) | Exploratory data analysis for `WEATHER` and `STATIONS` dataset. |
+  | [EDA: Weather & Stations Data](/notebooks/EDA%20-%20Weather.ipynb) | Exploratory data analysis for `WEATHER` and `STATIONS` dataset. |
+  | [Preprocessing and Feature Engineering](/notebooks/Preprocessing%20and%20Feature%20Engineering.ipynb) | Data pre-processing and feature engineering. |
+  | [Model Training](/notebooks/Model%20Development%20PySpark%20ML.ipynb) | Machine learning model training and cross-validation. |
+  | [Toy Model](/scripts/toy_LR.py) | Toy Logistic Regression model. |
 
-   
+
 ---
 
 Data Processing Pipeline
