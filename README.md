@@ -26,28 +26,41 @@ This repository contains the code, models, and documentation to predict flight d
   |File | Description |
   |:----|:------------|
   | [Final Presentation](/presentation/Delayed%20Flights%20Prediction%20-%20Final.pptx) | Our final presentation and overview of solution. |
-  
-  
+  | [EDA: Flights Data](/notebooks/EDA%20-%20Flights.ipynb) | Exploratory data analysis for `FLIGHTS` dataset. |
+  | [EDA: Weather & Stations Data](notebooks/EDA%20-%20Weather.ipynb) | Exploratory data analysis for `WEATHER` and `STATIONS` dataset. |
+
+   
 ---
 
-Data Pipeline
+Data Processing Pipeline
 -------------
 
-TODO: Some details and images regarding our data pipeline. Details on SQL queries.
+<img src="./images/data_engineering.png" align="center"/>
+
 
 ---
 
-Model Architecture
+Solution Architecture
 -----------
 
-TODO: Some details and images regarding our best model architecture.
+<img src="./images/solution_architecture.png" align="center">
 
 ---
 
 Data Visualization
 -------------
 
-TODO: Some details and images regarding our best model architecture.
+<img src="./images/EDA_flight_volume_map.png" align="center"><br>
+
+<img src="./images/EDA_annual_delayed_flights.png" align="center"><br>
+
+<img src="./images/EDA_delay_average_by_airline.png" align="center"><br>
+
+<img src="./images/EDA_correlation.png" align="center"><br>
+
+<img src="./images/EDA_ontime_flights.png" align="center"><br>
+
+<img src="./images/EDA_delays_by_airline.png" align="center"><br>
 
 ---
 
