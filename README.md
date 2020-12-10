@@ -53,17 +53,28 @@ Solution Architecture
 Data Visualization
 -------------
 
-<img src="./images/EDA_flight_volume_map.png" align="center"><br>
+<img src="./images/EDA_flight_volume_map.png" align="center"/><br>
 
-<img src="./images/EDA_annual_delayed_flights.png" align="center"><br>
+<img src="./images/EDA_delays_by_airline.png" align="center"/><br>
 
-<img src="./images/EDA_delay_average_by_airline.png" align="center"><br>
+<img src="./images/EDA_delay_prev_flight.png" align="center"/><br>
 
-<img src="./images/EDA_correlation.png" align="center"><br>
+<img src="./images/EDA_annual_delayed_flights.png" align="center"/><br>
 
-<img src="./images/EDA_ontime_flights.png" align="center"><br>
+<img src="./images/EDA_delay_average_by_airline.png" align="center"/><br>
 
-<img src="./images/EDA_delays_by_airline.png" align="center"><br>
+<img src="./images/EDA_correlation.png" align="center"/><br>
+
+<img src="./images/EDA_ontime_flights.png" align="center"/><br>
+
+<img src="./images/EDA_origin_delays.png" align="center"/><br>
+
+---
+
+Toy Example (LR)
+---------------
+
+<img src="./images/LR_toy_example.png" align="left"/><br>
 
 ---
 
